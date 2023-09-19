@@ -13,6 +13,11 @@ Bienvenido de nuevo a la Escuela de Videojuegos CodeForTheSpace. Por favor, inic
 
 [ ] Mantenerme Conectado
 
+<!--Añadido campo de Teléfono -->
+
+**Teléfono:**
+
+[ ] Mantenerme Conectado
 
 ## ¿Nuevo aquí?
 
