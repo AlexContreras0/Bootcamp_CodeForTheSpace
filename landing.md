@@ -22,7 +22,15 @@ Nuestro programa de desarrollo de videojuegos te sumergirá en el emocionante mu
 
 Desbloquea tu creatividad y da vida a mundos virtuales asombrosos. Únete a nuestro curso en arte 3D y animación para videojuegos y transforma tu pasión en tu carrera. ¡Descubre cómo convertir tus ideas en juegos emocionantes!
 
-![Estudiantes Trabajando](https://www.ticpymes.es/wp-content/uploads/2023/02/15620_07.png)
+### Curso de TechnicalArtist en Unreal Engine
+
+Domina el arte de fusionar creatividad y tecnología. Nuestro Curso de Technical Artist en Unreal Engine te guiará a través de las herramientas y técnicas necesarias para crear mundos virtuales de alto calibre. ¡Conviértete en el enlace vital entre arte y programación en la industria de los videojuegos!
+
+### Curso en Marketing y Comunicación para Videojuegos
+
+Eleva tu juego en la industria del entretenimiento digital. Únete a nuestro Curso en Marketing y Comunicación para Videojuegos y descubre cómo llevar tus creaciones al mundo. Domina las estrategias de promoción que transformarán tus juegos en éxitos mundiales.
+
+![Estudiantes Trabajando](https://elcomercio.pe/resizer/mJGdecuxGqShuMHyi-wAiADTflc=/580x330/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/7TV6DWO73VBRBEP4KCCFSC7RHU.jpg)
 
 ## Por qué Elegirnos
 
